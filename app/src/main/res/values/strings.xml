@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sri Bagavath</string>
+    <string name="website_url"><u>http://czsm.co.in/</u></string>
+    <string name="main_address">31,Ramalingam Street,\nAmmapettai,Salem - 636 003.\nMobile :\n+91- 99942-05880\n+91 – 94432-90559\n+91- 97891-65555</string>
+    <string name="chennai_address1">New No. 24, Kirupasankari Street,\nNear Rangarajapuram IOB, Rangarajapuram 5 Lights.\nWest Mambalam, Chennai, India\nContact:Ravichandiran.M,\nMobile: +91 9444402986,\nPhone: +91 44 24802986.</string>
+    <string name="chennai_address2">23/10, Old Baroda Bank Street,\nSecretariat Colony,\nAmbattur,\nChennai, Tamilnadu.\nContact : 99520-71525, 72991-08757.</string>
+    <string name="tirupur_address">Sri Balakumaran Nits,\n40 Thattan Garden,4th street,\nPalladam road,Tripur - 4\nMobile:9944044988, 9442215248, 9865623709</string>
+    <string name="vellore_address">270,Pothanur,Murugan Theatre opposite\nParamathi Velur,Nammakal\nMobile : 9360579181, 9360110755, 9787253751</string>
+    <string name="salem_address">Amrutha Homeo Clinic,\n8A/189,Saraswathi street,Athvaitha Ashramam road,\nNew Bus Stand Opposite,Salem\nMobile :  9488694453, 9894377433, 9443290559</string>
+    <string name="kovai_address">1548,Tirchi Road,Vivagalaya school opposite,\nRichmond Hospital near,Kovai Mobile : 98422-31582</string>
+    <string name="tirchi_address">Zen local library , 450 , periyakataiviti\nLaksmivilas Bank , near Trichy -8 .
+\nCell : 98940-12639 , phone : 0431-2701239</string>
+    <string name="content">fdf</string>
+
+</resources>

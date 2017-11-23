@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cz.sribagavathmission">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logoicon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".FullscreenActivity"
+            android:screenOrientation="portrait">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+
+
+        </activity>
+        
+        <activity android:name=".CategoriesActivity"
+            android:screenOrientation="portrait">
+
+
+        </activity>
+
+        <activity android:name=".WebViewActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".ProfileActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".AudioActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".PlayList"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".ContactUsActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".EbookActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".FloweringSubActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".GalleryActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".UnderstandActivity"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".EnglishPlayList"
+            android:screenOrientation="portrait"/>
+
+
+    </application>
+
+</manifest>
